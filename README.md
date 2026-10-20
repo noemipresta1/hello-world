@@ -1,5 +1,5 @@
 # hello-world
 This repository is for practicing the GitHub Flow. 
 
-**My name is Noemi **
+**My name is Noemi**
 
